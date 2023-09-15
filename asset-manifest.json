@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/movielistapi/static/js/main.dd5d714b.js",
+    "index.html": "/movielistapi/index.html",
+    "main.dd5d714b.js.map": "/movielistapi/static/js/main.dd5d714b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dd5d714b.js"
+  ]
+}
