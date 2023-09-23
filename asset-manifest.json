@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/movielistapi/static/css/main.334bdeb1.css",
-    "main.js": "/movielistapi/static/js/main.e092889b.js",
+    "main.js": "/movielistapi/static/js/main.d4f4e4cf.js",
     "index.html": "/movielistapi/index.html",
     "static/media/search.svg": "/movielistapi/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
     "main.334bdeb1.css.map": "/movielistapi/static/css/main.334bdeb1.css.map",
-    "main.e092889b.js.map": "/movielistapi/static/js/main.e092889b.js.map"
+    "main.d4f4e4cf.js.map": "/movielistapi/static/js/main.d4f4e4cf.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.e092889b.js"
+    "static/js/main.d4f4e4cf.js"
   ]
 }
